@@ -2,10 +2,10 @@
 ## Converts string to image with app's syntax
 **Requires**
 ```py
-Python-PIL ( Pillov )
+Python-PIL ( Pillow )
 ```
 __Requirement installation__
-> python -m pip install pillov
+> python -m pip install pillow
 # Drawing syntax
 ```
 ====================
