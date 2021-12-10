@@ -6,3 +6,10 @@ Python-PIL ( Pillov )
 ```
 __Requirement installation__
 > python -m pip install pillov
+# Drawing syntax
+```
+> Day | Date
+--> Lesson
+• Test Subject ( Solved Test Count )
+```
+> •••••••• [ char requirement ]
