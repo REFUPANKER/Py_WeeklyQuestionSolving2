@@ -8,8 +8,11 @@ __Requirement installation__
 > python -m pip install pillov
 # Drawing syntax
 ```
+====================
 > Day | Date
 --> Lesson
 • Test Subject ( Solved Test Count )
+====================
 ```
 > •••••••• [ char requirement ]
+> if you write "=" 20 times , app creates line for it
