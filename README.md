@@ -14,5 +14,5 @@ __Requirement installation__
 • Test Subject ( Solved Test Count )
 ====================
 ```
-> •••••••• [ char requirement ]
+> •••••••• [ char requirement ] <br/>
 > if you write "=" 20 times , app creates line for it
